@@ -1,0 +1,17 @@
+.Abc {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  text-align: center;
+  color: red;
+  padding: 15px;
+}
+.Abc span {
+  font-size: 50px;
+  color: springgreen;
+}
+.Abc:hover {
+  background: rgb(37, 0, 204);
+}
+.Abc p {
+  color: green;
+}
